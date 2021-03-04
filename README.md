@@ -1,3 +1,3 @@
 # Portable ECG using Web Interface
 
-Designed and Implemented ECG Tracking system for real time ECG Monitoring and tracking using Cloud Server and IOT Techniques.
+Designed and implemented an ECG tracking system based on IoT techniques. An IoT-based ECG system was initiated based on the proposed architecture. The real-time ECG signal can be collected with suitable accuracy using a wearable monitoring node with three electrodes. As Wi-Fi can provide higher data rates and wider coverage areas, the ECG data gathered from the sensors are send to IoT Cloud throughESP8266 module and stored the data on SD Card for Offline Storage. The IoT cloud server visualize the ECG information and store these information for further analysis. The ECG output was displayed on developed web interface and local TFT LCD.
